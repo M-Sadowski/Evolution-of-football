@@ -5,9 +5,9 @@
 
 ### Data Sources
 
-Results Data: The primary dataset used for this analysis is the "results.csv" file, containing detailed information about each internation match since 1872
-Shootouts Data: An additional dataset used for this analysis is the "shootouts.csv" file, containing detailed information about each shootouts in international matches since 1967
-Goalscorers Data: An additional dataset used for this analysis is the "goalscorers.csv" file, containing detailde information about each goalscorer in international matches since 1916
+1. Results Data: The primary dataset used for this analysis is the "results.csv" file, containing detailed information about each internation match since 1872
+2. Shootouts Data: An additional dataset used for this analysis is the "shootouts.csv" file, containing detailed information about each shootouts in international matches since 1967
+3. Goalscorers Data: An additional dataset used for this analysis is the "goalscorers.csv" file, containing detailde information about each goalscorer in international matches since 1916
 
 ### Tools
 1. Python - data cleaning and transforming
