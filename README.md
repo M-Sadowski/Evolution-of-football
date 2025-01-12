@@ -22,9 +22,6 @@
 5. Creating dimensions and facts tables from source files
 7. Saving tables to csv files
 
-### Exploratory Data Analysis
-
-
 ### Results/Findings
 
 
