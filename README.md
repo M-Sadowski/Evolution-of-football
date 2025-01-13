@@ -2,6 +2,8 @@
 
 ### Project Overview
 
+The project aims to analyze national team match data and find trends and insights in world football from 1872 to 2024. 
+The project included the creation of a database, ETL process, and data analysis and visualization.
 
 ### Data Sources
 
@@ -21,8 +23,6 @@
 4. Deletion of duplicates
 5. Creating dimensions and facts tables from source files
 7. Saving tables to csv files
-
-### Results/Findings
 
 
 
